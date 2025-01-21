@@ -1,0 +1,22 @@
+# ninja log v6
+7	3533	1737492939806351813	CMakeFiles/DynamischeVerwaltungPointer3.dir/main.cpp.o	e71f33458cfc6286
+8	3545	1737492939807426144	CMakeFiles/DynamischeVerwaltungPointer3.dir/Dynamisch.cpp.o	422f4d80f9780144
+35	3579	1737493115691102504	CMakeFiles/DynamischeVerwaltungPointer3.dir/Dynamisch.cpp.o	422f4d80f9780144
+3579	3763	1737493119234823889	DynamischeVerwaltungPointer3	c2e99a9c1f0c2c32
+39	2194	1737493164495696986	CMakeFiles/DynamischeVerwaltungPointer3.dir/Dynamisch.cpp.o	422f4d80f9780144
+2195	2358	1737493166651585802	DynamischeVerwaltungPointer3	c2e99a9c1f0c2c32
+26	2007	1737493199134936092	CMakeFiles/DynamischeVerwaltungPointer3.dir/main.cpp.o	e71f33458cfc6286
+2008	2163	1737493201116341152	DynamischeVerwaltungPointer3	c2e99a9c1f0c2c32
+38	2491	1737493331535551187	CMakeFiles/DynamischeVerwaltungPointer3.dir/main.cpp.o	e71f33458cfc6286
+45	2494	1737493331542337130	CMakeFiles/DynamischeVerwaltungPointer3.dir/Dynamisch.cpp.o	422f4d80f9780144
+2494	2674	1737493333991469766	DynamischeVerwaltungPointer3	c2e99a9c1f0c2c32
+27	2828	1737493369898053252	CMakeFiles/DynamischeVerwaltungPointer3.dir/main.cpp.o	e71f33458cfc6286
+2828	2975	1737493372699365753	DynamischeVerwaltungPointer3	c2e99a9c1f0c2c32
+45	2662	1737493405927369182	CMakeFiles/DynamischeVerwaltungPointer3.dir/main.cpp.o	e71f33458cfc6286
+2663	2827	1737493408544597689	DynamischeVerwaltungPointer3	c2e99a9c1f0c2c32
+23	2357	1737493428949545675	CMakeFiles/DynamischeVerwaltungPointer3.dir/main.cpp.o	e71f33458cfc6286
+2357	2522	1737493431283885681	DynamischeVerwaltungPointer3	c2e99a9c1f0c2c32
+44	3088	1737493627471745315	CMakeFiles/DynamischeVerwaltungPointer3.dir/Dynamisch.cpp.o	422f4d80f9780144
+3088	3304	1737493630515903583	DynamischeVerwaltungPointer3	c2e99a9c1f0c2c32
+22	2006	1737493656741188626	CMakeFiles/DynamischeVerwaltungPointer3.dir/Dynamisch.cpp.o	422f4d80f9780144
+2006	2283	1737493658725725662	DynamischeVerwaltungPointer3	c2e99a9c1f0c2c32
