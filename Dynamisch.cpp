@@ -14,8 +14,13 @@ Student* createStudent(const string& name, int matrikelnummer, double durchschni
 }
 
 void addStudent(Hochschule& hochschule, Student* student) {
-    student->next = hochschule.head;
-    hochschule.head = student;
+    if(hochschule.head == nullptr) {//Fall 1 Liste leer
+        hochschule.head = student;
+        student->next = nullptr;
+    } else { //Fall 2 Liste nicht leer
+        student->next = hochschule.head;
+        hochschule.head = student;
+    }
 }
 void printStudentList(const Hochschule& hochschule) {
     Student* temp = hochschule.head;
